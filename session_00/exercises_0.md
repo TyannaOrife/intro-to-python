@@ -1,4 +1,4 @@
-# Session 0 Exercises
+p# Session 0 Exercises
 
 ## Section A
 
